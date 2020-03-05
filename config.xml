@@ -1,5 +1,6 @@
 <?xml version='1.1' encoding='utf-8'?>
-<widget id="com.fluxsoftwares.adxpro" version="2.0.0" xmlns:gap="http://phonegap.com/ns/1.1" xmlns:cdv="http://cordova.apache.org/ns/1.1">
+<!-- <widget id="com.fluxsoftwares.adxpro" version="2.0.0" xmlns:gap="http://phonegap.com/ns/1.1" xmlns:cdv="http://cordova.apache.org/ns/1.1"> -->
+<widget id="com.doctum.adxprofessor" version="2.0.0" xmlns:gap="http://phonegap.com/ns/1.1" xmlns:cdv="http://cordova.apache.org/ns/1.1">
     <name>Adx Professor</name>
     <description>
         Um aplicativo básico com funções que auiliarão sua vida dentro da sala de aula.
