@@ -1,8 +1,9 @@
 <?xml version='1.1' encoding='utf-8'?>
-<widget id="io.doctum.adxprof" version="1.0.0" xmlns:gap="http://phonegap.com/ns/1.1" xmlns:cdv="http://cordova.apache.org/ns/1.1">
-    <name>ADX PROF</name>
+<widget id="com.fluxsoftwares.adxpro" version="2.0.0" xmlns:gap="http://phonegap.com/ns/1.1" xmlns:cdv="http://cordova.apache.org/ns/1.1">
+    <name>Adx Professor</name>
     <description>
         Um aplicativo básico com funções que auiliarão sua vida dentro da sala de aula.
+        Uso exclusivo para professores. 
         Com esse app, você conseguirá fazer suas chamadas e lançar notas para os seus alunos na palma da sua mão.
         Aproveite essa comodidade e use esse app para facilitar a sua vida.
         Atenção: Para funções avançadas, use o portal WEB.
