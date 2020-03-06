@@ -3,7 +3,7 @@
 <widget id="com.doctum.adxprofessor" version="2.0.0" xmlns:gap="http://phonegap.com/ns/1.1" xmlns:cdv="http://cordova.apache.org/ns/1.1">
     <name>Adx Professor</name>
     <description>
-        Um aplicativo básico com funções que auiliarão sua vida dentro da sala de aula.
+        Um aplicativo básico com funções que auxiliarão sua vida dentro da sala de aula.
         Uso exclusivo para professores. 
         Com esse app, você conseguirá fazer suas chamadas e lançar notas para os seus alunos na palma da sua mão.
         Aproveite essa comodidade e use esse app para facilitar a sua vida.
